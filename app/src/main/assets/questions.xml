@@ -1,0 +1,105 @@
+<?xml version = "1.0"?>
+<questions>
+        <question>
+            <quest>Kdy skončila 2. světová válka?</quest>
+            <option1>1939</option1>
+            <option2>2019</option2>
+            <option3>1945</option3>
+            <option4>1918</option4>
+            <answerNum>3</answerNum>
+            <category>1</category>
+        </question>
+        <question>
+            <quest>V kterém roce proběhla Bitva na Bílé hoře?</quest>
+            <option1>1620</option1>
+            <option2>1720</option2>
+            <option3>2020</option3>
+            <option4>1020</option4>
+            <answerNum>1</answerNum>
+            <category>1</category>
+        </question>
+        <question>
+            <quest>Jaké přízvisko měl český kníže Boleslav II.?</quest>
+            <option1>ukrutný</option1>
+            <option2>pobožný</option2>
+            <option3>chrabrý</option3>
+            <option4>ošklivý</option4>
+            <answerNum>2</answerNum>
+            <category>1</category>
+        </question>
+        <question>
+            <quest>Který panovník nechal postavit pevnost Terezín?</quest>
+            <option1>Jindřich VIII.</option1>
+            <option2>Napoleon</option2>
+            <option3>Leonidas</option3>
+            <option4>Josef II.</option4>
+            <answerNum>4</answerNum>
+            <category>1</category>
+        </question>
+        <question>
+            <quest>Jak se jmenoval hustiský vojevůdce?</quest>
+            <option1>Jan Žižka</option1>
+            <option2>Julius Caesar</option2>
+            <option3>Max Žižka</option3>
+            <option4>Jan Hus</option4>
+            <answerNum>1</answerNum>
+            <category>1</category>
+        </question>
+
+        <question>
+            <quest>Jaké je hlavní město ČR?</quest>
+            <option1>Ostrava</option1>
+            <option2>Praha</option2>
+            <option3>Berlín</option3>
+            <option4>New York</option4>
+            <answerNum>2</answerNum>
+            <category>2</category>
+        </question>
+        <question>
+            <quest>Největší stát na světě je...?</quest>
+            <option1>Česká Republika</option1>
+            <option2>Rusko</option2>
+            <option3>Vatikán</option3>
+            <option4>Čína</option4>
+            <answerNum>2</answerNum>
+            <category>2</category>
+        </question>
+        <question>
+            <quest>Jaká je nejvyšší hora ČR?</quest>
+            <option1>Praděd</option1>
+            <option2>Lysá hora</option2>
+            <option3>Králický Sněžník</option3>
+            <option4>Sněžka</option4>
+            <answerNum>4</answerNum>
+            <category>2</category>
+        </question>
+
+        <question>
+            <quest>Kolik hráčů je ve vodě za jeden kompletní tým ve vodním pólu?</quest>
+            <option1>5</option1>
+            <option2>6</option2>
+            <option3>7</option3>
+            <option4>9</option4>
+            <answerNum>1</answerNum>
+            <category>3</category>
+        </question>
+        <question>
+            <quest>Jak se nazývá sport, který používá k pohybu vzduchem padákový kluzák?</quest>
+            <option1>kiting</option1>
+            <option2>paragliding</option2>
+            <option3>tubing</option3>
+            <option4>parasliding</option4>
+            <answerNum>2</answerNum>
+            <category>3</category>
+        </question>
+        <question>
+            <quest>V kterém roce byl Josef Masopust vyhlášen fotbalistou Evropy?</quest>
+            <option1>1954</option1>
+            <option2>1962</option2>
+            <option3>1958</option3>
+            <option4>1964</option4>
+            <answerNum>2</answerNum>
+            <category>3</category>
+        </question>
+
+</questions>

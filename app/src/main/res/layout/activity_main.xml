@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainActivityLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/textHeading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="QuizGame"
+        android:gravity="center"
+        android:layout_marginBottom="30dp"
+        android:textSize="40sp"
+        android:textStyle="bold"
+       />
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:textAlignment="center"
+        android:hint="Enter your name"
+         />
+
+    <Button
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:id="@+id/startButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="START"
+        android:textSize="24sp"
+        android:gravity="center"
+        android:layout_marginBottom="30dp"
+        android:layout_marginTop="30dp"
+        android:textColor="@android:color/black"
+        android:width="150dp"
+        android:height="70dp"
+        />
+
+
+
+    <ImageView
+        android:id="@+id/point"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        app:srcCompat="@drawable/point" />
+
+
+</LinearLayout>

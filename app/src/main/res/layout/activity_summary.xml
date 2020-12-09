@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/summaryLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    tools:context=".Summary">
+
+    <TextView
+        android:id="@+id/congratsText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Congratulations, you've earnd 0 points"
+        android:textAlignment="center"
+        android:textSize="30dp" />
+
+    <Button
+        android:id="@+id/againButton"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="146dp"
+        android:layout_height="87dp"
+        android:layout_below="@+id/listView"
+        android:text="Play again"
+        android:layout_centerHorizontal="true"
+        android:textColor="@android:color/black" />
+
+    <ImageView
+        android:id="@+id/bigPoint"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/congratsText"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/point" />
+
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_below="@+id/bigPoint"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+        />
+
+</RelativeLayout>
